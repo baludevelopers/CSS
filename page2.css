@@ -1,0 +1,70 @@
+body{
+    margin:auto;3939
+}
+#header{
+    background-color:red;
+    height:100px;
+    width:100%;
+}
+.logo{
+    height:40px;
+    width:40px;
+    border-radius: 55%;
+}
+a{
+    text-decoration:none;
+}
+#heading{
+    display: inline-block;
+    margin:33%;
+    color:red;
+    
+}
+#social{
+    display: inline-block;
+    margin-left: 83%;
+    margin-top: -7%;
+    
+}
+#logo_main{
+    height:80px;
+    width:80px;
+    background-color:white;
+    border-radius:75%;
+    display:inline-block;
+    margin-top: 1%;
+    margin-left: 42%;
+    
+  
+}
+#main{
+    margin-top: 3%;
+    margin-left: 11%;
+}
+#filter{
+    height: 572px;
+    width:20%;
+    float: left;
+    border:5px solid red;
+    margin-top: 3%;
+}
+#content{
+    height: 560px;
+    width: 60%;
+    float: left;
+    margin-left: 5%;
+}
+.choos_content{
+    height:165px;
+    width:100%;
+    margin-top:5%;
+    border:5px solid red;
+}
+.food_item{
+    height: 81%;
+    width: 26%;
+    margin-top: 3%;
+    margin-left: 5%;
+    border-radius: 25%;
+}
+
